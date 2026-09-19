@@ -1,6 +1,6 @@
 # 快速入門
 
-![image](./userguide/pub/image/startset.png)
+![image](image/startset.png)
 
 歡迎使用 CASIO fx-50FH II。本指南將協助您完成初次設定。
 
