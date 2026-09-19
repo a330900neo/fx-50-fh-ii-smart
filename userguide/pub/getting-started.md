@@ -1,6 +1,6 @@
 # 快速入門
 
-<img src="./userguide/pub/image/startset.png" alt="drawing" height="400"/>
+<img src="https://github.com/a330900neo/fx-50-fh-ii-smart/blob/main/userguide/pub/image/startset.png" alt="drawing" height="400"/>
 
 歡迎使用 CASIO fx-50FH II。本指南將協助您完成初次設定。
 
