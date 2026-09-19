@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "id": "calchat",
+      "name": "CalChat",
+      "developer": "Calcuta",
+      "description": "與朋友通訊，分享文件",
+      "icon": "appicon/calchat.png",
+      "images": [
+        "image/calchat-1.png"
+      ],
+      "tags": ["社交", "通訊", "工具"]
+    }
+  ]
+}
