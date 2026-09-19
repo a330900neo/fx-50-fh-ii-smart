@@ -1,12 +1,13 @@
 # 快速入門
 
-![image](image/startset.png)
+<img src="image/startset.png" alt="drawing" height="400"/>
 
 歡迎使用 CASIO fx-50FH II。本指南將協助您完成初次設定。
 
 ## 開機與基本操作
 
-按電源鍵即可開機。首次使用時，畫面會引導您完成基本設定。
+按ON即可開機。首次使用時，畫面會引導您完成基本設定。
+1. 語
 
 
 
