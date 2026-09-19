@@ -10,6 +10,17 @@
         "image/calchat-1.png"
       ],
       "tags": ["社交", "通訊", "工具"]
+    },
+    {
+      "id": "calide",
+      "name": "CalIDE",
+      "developer": "Calcuta",
+      "description": "編寫、測試、運行各種程式語言如Python、HTML JS CSS",
+      "icon": "appicon/calide.png",
+      "images": [
+        "image/calide-1.png"
+      ],
+      "tags": ["技術", "生產力", "工具"]
     }
   ]
 }
