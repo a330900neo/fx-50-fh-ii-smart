@@ -21,6 +21,17 @@
         "image/calide-1.png"
       ],
       "tags": ["技術", "生產力", "工具"]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "developer": "ihatechineseexam",
+      "description": "隨時隨地看影片，移植了YouTube",
+      "icon": "appicon/youtube.png",
+      "images": [
+        "image/youtube-1.png","image/youtube-2.png"
+      ],
+      "tags": ["娛樂", "串流", "多媒體","移植"]
     }
   ]
 }
