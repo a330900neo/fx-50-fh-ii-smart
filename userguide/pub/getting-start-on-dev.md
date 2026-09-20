@@ -9,13 +9,33 @@
 [fxstudio_setup_linux.deb]()
 [fxstudio_setup_mac.dmg]()
 
-# 建立Project
+## 建立Project
 
 開啟fxStudio
 - 在開始頁按「New project」
+
   或
+  
 - 「Files」>「New project」
 
 填寫基本資料
 
-# 編程語言
+## 編程語言
+
+功能 | Kotlin | C | Python
+---|---|---|---
+GUI | ✅ | ✅ | ✅
+寫入存儲空間 | ✅ | ✅ | ❎
+硬件層直接存取 | ❎ | ✅ | ❎
+SuperUser權限調用 | 部分 | ✅ | ❎
+
+選擇適合的語言
+
+## 編寫 
+
+請參考 Devloper Docs
+
+## 編譯及發佈
+
+編譯頂部「Build」>「Compile」>選擇 Debug/release
+發布請在應用商店網站上載.cip 及填寫應用程式資料
