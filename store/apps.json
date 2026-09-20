@@ -32,6 +32,17 @@
         "image/youtube-1.png","image/youtube-2.png"
       ],
       "tags": ["娛樂", "串流", "多媒體","移植"]
+    },
+    {
+      "id": "file",
+      "name": "File explorer",
+      "developer": "System",
+      "description": "管理計數機內文件",
+      "icon": "appicon/file-1.png",
+      "images": [
+        "image/file.png"
+      ],
+      "tags": ["系統", "多媒體","工具"]
     }
   ]
 }
