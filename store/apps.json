@@ -43,6 +43,17 @@
         "image/file.png"
       ],
       "tags": ["系統", "多媒體","工具"]
+    },
+    {
+      "id": "waybrowser",
+      "name": "Way Browser",
+      "developer": "dYncaE",
+      "description": "瀏覽網頁",
+      "icon": "appicon/waybrowser.png",
+      "images": [
+        "image/waybrowser-1.png"
+      ],
+      "tags": ["工具", "移植"]
     }
   ]
 }
